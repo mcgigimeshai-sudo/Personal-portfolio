@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Edidiong Nkanta Portfolio",
+  "description": "Premium biography and portfolio website for Dr. Edidiong Dominic Nkanta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
